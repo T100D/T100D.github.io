@@ -1,9 +1,5 @@
----
-layout: default
-title: My Personal Site
----
+hankquinlan.github.io
+=====================
+This is demo data created by [Jonathan McGlone](http://jmcglone.com) and used in a [step-by-step beginners guide](http://jmcglone.com/guides/github-pages) to creating and hosting a personal website using GitHub and Jekyll. You can view the demo data at <http://hankquinlan.github.io> and read the guide at <http://jmcglone.com/guides/github-pages>. 
 
-		<div class="blurb">
-			<h1>Hi there, I'm Arie</h1>
-			<p>I'm best known as the horrible cop from <em>A Touch of Evil</em>. Don't trust me. <a href="/about">Read more about my life...</a></p>
-		</div> 
+Users are free to copy and re-use any and all of the code contained here without contacting me.
